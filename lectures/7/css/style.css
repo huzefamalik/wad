@@ -1,6 +1,16 @@
 #main {
     /* add CSS here */
+    margin-right: 600px;
+    margin-left:600px;
+    margin-top:10px;
+    margin-bottom:10px;
 }
 .pet {
     /* add CSS here */
+    border-radius :50px;
+    border:dotted green;
+    cursor:pointer;
+    -webkit-box-shadow: 25px 20px 25px -6px rgba(0,0,0,0.66);
+-moz-box-shadow: 25px 20px 25px -6px rgba(0,0,0,0.66);
+box-shadow: 25px 20px 25px -6px rgba(0,0,0,0.66);
 }
